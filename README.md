@@ -1,6 +1,6 @@
 # Gonta
 
-##A Discord bot that looks stunning, but is actually pretty dumb.
+## A Discord bot that looks stunning, but is actually pretty dumb.
 
 Discord description :
 >"🇬🇧 - Limits access to some rooms according to a message number / score.
@@ -9,7 +9,7 @@ Discord description :
 
 For now, I only upload the main file and the .env file to edit some parameters. You can use it as a template for another bot if you want.
 
-###Requirements
+### Requirements
 
 You'll only need 3 things :
   - a Python-compatible OS ( Windows, macOS, any Linux distro, ... ) 
@@ -22,10 +22,11 @@ You'll only need 3 things :
 You can install all the libraries in one go with :
 ```pip install discord.py python-dotenv "python-dotenv[cli]" csv```
 
-###About the wiki
+### About the wiki
 
-I'll do the wiki someday, but if you're determinded enough to make a wiki, don't hesitate to contact me by mail : <a link="mailto:"imalonelynerd@gmail.com">imalonelynerd@gmail.com</a>.
+I'll do the wiki someday, but if you're determinded enough to make a wiki, don't hesitate to contact me by mail : 
+<a href="mailto:"imalonelynerd@gmail.com">imalonelynerd@gmail.com</a>.
 
-###Liscence
+### Liscence
   
 This bot is under the Unliscence. In other words, do whatever the f*ck you want !
