@@ -1,0 +1,17 @@
+{
+  "name": "gonta",
+  "version": "1.0.0",
+  "description": "A Discord bot which looks stunning, but is actually pretty dumb.",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Nerd",
+  "license": "The Unlicense",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "process": "^0.11.10"
+  }
+}

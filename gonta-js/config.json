@@ -1,0 +1,18 @@
+{
+"BOT_TOKEN":"put the token here",
+"GUILD_ID":"put the guild id here",
+"DUMMY_ID":{
+  "D_GUILD":"put the log guild id here",
+  "D_ROOM":"put the log room id here"
+},
+"GUILD_NAME":"put the guild name here",
+"REINIT":"either 0 or 1, if 1 -> starts a new leaderboard",
+"SAVE_INTRV":"number of seconds beetween updates",
+"TARGET_ROLES":{
+  "Tier1":{"TRSH":"nb of messages","ROLE":"role name"},
+  "Tier2":{"TRSH":"nb of messages","ROLE":"role name"},
+  "Tier3":{"TRSH":"nb of messages","ROLE":"role name"}
+},
+"CONGRATS":"message to send when someone got a role",
+"DM_ERROR":"message to send when someone dms the bot"
+}

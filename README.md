@@ -1,6 +1,6 @@
 # Gonta
 
-## A Discord bot that looks stunning, but is actually pretty dumb.
+## A Discord bot which looks stunning, but is actually pretty dumb.
 
 Discord description :
 >"🇬🇧 - Limits access to some rooms according to a message number / score.
@@ -23,7 +23,7 @@ You can install all the libraries in one go with :
 
 ### Installation
 
-  - Download the "Files" folder
+  - Download the "gonta-js" folder
   - Edit the different parameters to your liking
   - Launch the bot : ```node bot.js```
     
