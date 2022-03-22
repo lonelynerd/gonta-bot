@@ -3,9 +3,9 @@
 ## A Discord bot which looks stunning, but is actually pretty dumb.
 
 Discord description :
->"🇬🇧 - Limits access to some rooms according to a message number / score.
-> 
->🇫🇷 - Limite l'accès à certains salons selon un nombre / score de messages"
+>🇬🇧 - Be active, get roles, do more in the server. It's that simple.
+>
+>🇫🇷 - Sois actif, obtiens des rôles, et accèdes à plus de fonctionnalités. C'est aussi simple que ça.
 
 For now, I only upload the main file and the config file to edit some parameters. You can use it as a template for another bot if you want.
 
