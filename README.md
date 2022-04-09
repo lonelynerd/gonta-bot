@@ -1,6 +1,6 @@
 # Gonta
 
-## A Discord bot which looks stunning, but is actually pretty dumb.
+## A Discord bot for the ones who doesn't want to smack 90 $ for MEE6.
 
 Discord description :
 >🇬🇧 - Be active, get roles, do more in the server. It's that simple.
