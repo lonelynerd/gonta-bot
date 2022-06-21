@@ -1,18 +1,21 @@
 {
-"BOT_TOKEN":"put the token here",
-"GUILD_ID":"put the guild id here",
+"BOT_TOKEN":"PUT TOKEN HERE",
+"CLIENT_ID":"PUT BOT ID HERE",
+"GUILD_ID":"PUT GUILD ID HERE",
 "DUMMY_ID":{
-  "D_GUILD":"put the log guild id here",
-  "D_ROOM":"put the log room id here"
+  "D_GUILD":"PUT LOG GUILD ID HERE",
+  "D_ROOM":"PUT LOG ROOM ID HERE",
+  "D_REQ":"PUT REQUEST ROOM ID HERE"
 },
-"GUILD_NAME":"put the guild name here",
-"REINIT":"either 0 or 1, if 1 -> starts a new leaderboard",
-"SAVE_INTRV":"number of seconds beetween updates",
+"GUILD_NAME":"PUT GUILD NAME HERE",
+"REINIT":"1 IF SCORE REINIT",
+"SAVE_INTRV":"NB OF SECONDS BETWEEEN SAVES",
 "TARGET_ROLES":{
-  "Tier1":{"TRSH":"nb of messages","ROLE":"role name"},
-  "Tier2":{"TRSH":"nb of messages","ROLE":"role name"},
-  "Tier3":{"TRSH":"nb of messages","ROLE":"role name"}
+  "Tier1":{"TRSH":"0","NM":"Role1","CG":"Role1 aquired"},
+  "Tier2":{"TRSH":"0","NM":"Role2","CG":"Role2 aquired"},
+  "Tier3":{"TRSH":"0","NM":"Role3","CG":"Role3 aquired"},
+  "Tier4":{"TRSH":"0","NM":"Role4","CG":"Role4 aquired"},
+  "Tier5":{"TRSH":"0","NM":"Role5","CG":"Role5 aquired"}
 },
-"CONGRATS":"message to send when someone got a role",
-"DM_ERROR":"message to send when someone dms the bot"
+"DM_ERROR":"MESSAGE WHEN THE BOT IS DMED"
 }
